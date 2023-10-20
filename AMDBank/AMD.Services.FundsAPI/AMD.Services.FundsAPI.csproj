@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.10">
+		<PrivateAssets>all</PrivateAssets>
+		<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AMD.Services.Funds.BusinessLayer\AMD.Services.Funds.BusinessLayer.csproj" />
+    <ProjectReference Include="..\AMD.Services.Funds.DataLayer\AMD.Services.Funds.DataLayer.csproj" />
+    <ProjectReference Include="..\AMD.Services.Funds.DomainLayer\AMD.Services.Funds.DomainLayer.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

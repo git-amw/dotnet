@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AMD.Services.Funds.DataLayer\AMD.Services.Funds.DataLayer.csproj" />
+    <ProjectReference Include="..\AMD.Services.Funds.DomainLayer\AMD.Services.Funds.DomainLayer.csproj" />
+  </ItemGroup>
+
+</Project>

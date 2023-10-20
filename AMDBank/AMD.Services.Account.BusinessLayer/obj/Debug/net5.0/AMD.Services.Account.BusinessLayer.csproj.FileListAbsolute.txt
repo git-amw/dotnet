@@ -1,0 +1,15 @@
+D:\AMDBank\AMD.Services.Account.BusinessLayer\bin\Debug\net5.0\AMD.Services.Account.BusinessLayer.deps.json
+D:\AMDBank\AMD.Services.Account.BusinessLayer\bin\Debug\net5.0\AMD.Services.Account.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Account.BusinessLayer\bin\Debug\net5.0\AMD.Services.Account.BusinessLayer.pdb
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.csproj.AssemblyReference.cache
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.AssemblyInfoInputs.cache
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.AssemblyInfo.cs
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\ref\AMD.Services.Account.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.pdb
+D:\AMDBank\AMD.Services.Account.BusinessLayer\bin\Debug\net5.0\AMD.Services.Accounts.DomainLayer.dll
+D:\AMDBank\AMD.Services.Account.BusinessLayer\bin\Debug\net5.0\AMD.Services.Accounts.DomainLayer.pdb
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\AMD.Services.Account.BusinessLayer.csproj.CopyComplete
+D:\AMDBank\AMD.Services.Account.BusinessLayer\obj\Debug\net5.0\refint\AMD.Services.Account.BusinessLayer.dll

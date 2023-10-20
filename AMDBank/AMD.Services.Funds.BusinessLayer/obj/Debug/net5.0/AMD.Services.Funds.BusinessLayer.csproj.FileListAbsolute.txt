@@ -1,0 +1,17 @@
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.BusinessLayer.deps.json
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.BusinessLayer.pdb
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.csproj.AssemblyReference.cache
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.AssemblyInfoInputs.cache
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.AssemblyInfo.cs
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\ref\AMD.Services.Funds.BusinessLayer.dll
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.pdb
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.DomainLayer.dll
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.DomainLayer.pdb
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\AMD.Services.Funds.BusinessLayer.csproj.CopyComplete
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.DataLayer.dll
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\bin\Debug\net5.0\AMD.Services.Funds.DataLayer.pdb
+D:\AMDBank\AMD.Services.Funds.BusinessLayer\obj\Debug\net5.0\refint\AMD.Services.Funds.BusinessLayer.dll
