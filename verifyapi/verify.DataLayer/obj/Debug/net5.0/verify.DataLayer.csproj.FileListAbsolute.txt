@@ -1,0 +1,15 @@
+D:\verifyapi\verify.DataLayer\bin\Debug\net5.0\verify.DataLayer.deps.json
+D:\verifyapi\verify.DataLayer\bin\Debug\net5.0\verify.DataLayer.runtimeconfig.json
+D:\verifyapi\verify.DataLayer\bin\Debug\net5.0\verify.DataLayer.runtimeconfig.dev.json
+D:\verifyapi\verify.DataLayer\bin\Debug\net5.0\verify.DataLayer.dll
+D:\verifyapi\verify.DataLayer\bin\Debug\net5.0\verify.DataLayer.pdb
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.csproj.AssemblyReference.cache
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.AssemblyInfoInputs.cache
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.AssemblyInfo.cs
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.csproj.CoreCompileInputs.cache
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.dll
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\ref\verify.DataLayer.dll
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.pdb
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\verify.DataLayer.genruntimeconfig.cache
+D:\verifyapi\verify.DataLayer\obj\Debug\net5.0\refint\verify.DataLayer.dll

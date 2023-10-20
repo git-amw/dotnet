@@ -1,0 +1,24 @@
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\bin\Debug\net5.0\verify.services.deps.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\bin\Debug\net5.0\verify.services.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\bin\Debug\net5.0\verify.services.pdb
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.csproj.AssemblyReference.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.AssemblyInfoInputs.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.AssemblyInfo.cs
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.csproj.CoreCompileInputs.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\refint\verify.services.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\verify.services.pdb
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verify.services\obj\Debug\net5.0\ref\verify.services.dll
+D:\verifyapi\verify.services\bin\Debug\net5.0\verify.services.deps.json
+D:\verifyapi\verify.services\bin\Debug\net5.0\verify.services.dll
+D:\verifyapi\verify.services\bin\Debug\net5.0\verify.services.pdb
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.csproj.AssemblyReference.cache
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.AssemblyInfoInputs.cache
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.AssemblyInfo.cs
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.csproj.CoreCompileInputs.cache
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.dll
+D:\verifyapi\verify.services\obj\Debug\net5.0\verify.services.pdb
+D:\verifyapi\verify.services\obj\Debug\net5.0\ref\verify.services.dll
+D:\verifyapi\verify.services\obj\Debug\net5.0\refint\verify.services.dll

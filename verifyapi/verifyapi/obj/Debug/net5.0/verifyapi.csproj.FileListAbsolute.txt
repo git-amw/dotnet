@@ -1,0 +1,156 @@
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.AssemblyReference.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.AssemblyInfoInputs.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.AssemblyInfo.cs
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.CoreCompileInputs.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\appsettings.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.exe
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.deps.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.runtimeconfig.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.runtimeconfig.dev.json
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.pdb
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\MailKit.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\MimeKit.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verify.services.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\bin\Debug\net5.0\verify.services.pdb
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\scopedcss\bundle\verifyapi.styles.css
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\verifyapi.StaticWebAssets.Manifest.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.RazorTargetAssemblyInfo.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.CopyComplete
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\refint\verifyapi.dll
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.pdb
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.genruntimeconfig.cache
+C:\Users\abhishekverma09\OneDrive - Nagarro\Desktop\verification\verifyapi\verifyapi\obj\Debug\net5.0\ref\verifyapi.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\appsettings.Development.json
+D:\verifyapi\verifyapi\bin\Debug\net5.0\appsettings.json
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.exe
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.deps.json
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.runtimeconfig.json
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.runtimeconfig.dev.json
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verifyapi.pdb
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Humanizer.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\MailKit.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\MimeKit.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\NETCore.MailKit.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Collections.Immutable.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verify.services.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verify.services.pdb
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.AssemblyReference.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.AssemblyInfoInputs.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.AssemblyInfo.cs
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.CoreCompileInputs.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.MvcApplicationPartsAssemblyInfo.cs
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.MvcApplicationPartsAssemblyInfo.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\scopedcss\bundle\verifyapi.styles.css
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\verifyapi.StaticWebAssets.Manifest.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.RazorTargetAssemblyInfo.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.csproj.CopyComplete
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.dll
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.pdb
+D:\verifyapi\verifyapi\obj\Debug\net5.0\verifyapi.genruntimeconfig.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\ref\verifyapi.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verify.DataLayer.dll
+D:\verifyapi\verifyapi\bin\Debug\net5.0\verify.DataLayer.pdb
+D:\verifyapi\verifyapi\obj\Debug\net5.0\refint\verifyapi.dll
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\verifyapi.StaticWebAssets.Pack.cache
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\msbuild.verifyapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\msbuild.build.verifyapi.props
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.verifyapi.props
+D:\verifyapi\verifyapi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.verifyapi.props
