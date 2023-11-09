@@ -1,0 +1,35 @@
+<%- include("../layout/header.ejs") %>
+
+<div class="container card bg-light">
+    <div class="text-center">
+        <img src="/images/tImg/t1.png">
+    </div>
+    <% if (flag) { %>
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <strong><i class="bi bi-exclamation-triangle"></i></strong> &nbsp; Email or Password does not matched
+            <button type="button" class="btn-close" data-dismiss="alert" aria-label="Close"></button>
+        </div>
+    <% } %>
+    <form method="post" action="/teacher/signin" >
+        <div class="form-outline mb-4">
+            <label class="form-label" for="email">Email</label>
+            <input type="email" name="email" id="email" class="form-control" required />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="password">Password</label>
+            <input type="password" name="password" id="password" class="form-control" required />
+        </div>
+
+        <button type="submit" 
+            class="btn btn-outline-primary btn-block mb-4">Sign in</button>
+        &nbsp; &nbsp; &nbsp;
+        <!-- <button type="button" class="btn btn-outline-secondary btn-block mb-4"> Clear </button> -->
+
+        <div class="text-center">
+            <p>Don't have an acccount ? <a href="/teacher/register">Register</a></p>
+        </div>
+    </form>
+</div>
+
+<%- include("../layout/footer.ejs") %>

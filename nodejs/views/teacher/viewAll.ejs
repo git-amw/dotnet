@@ -1,0 +1,76 @@
+<%- include("../layout/header.ejs") %>
+
+<nav class="navbar ">
+    <div class="container-fluid">
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <img src="/images/tImg/t2.png" widht="20px">
+            </li>
+        </ul>
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <a href="/""><button class="btn btn-warning btn-lg"><i class="bi bi-box-arrow-left"></i>&nbsp;
+                        logout </button></a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container pt-3">
+    <div class="row">
+        <div class="col-6">
+            <h2>Result List : </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a href="/teacher/add/?token=<%= token %>"><button class="btn btn-outline-secondary "><i
+                        class="bi bi-plus-circle-dotted"></i>
+                    &nbsp; Add Result</button></a>
+        </div>
+    </div>
+    <table class="table table-hover pt-3">
+        <thead class="table-primary">
+            <tr>
+                <th>#ID</th>
+                <th>Roll NO </th>
+                <th>Date of birth </th>
+                <th>marks %</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        <% student.forEach((it, idx) => { %>
+            <tr>
+                <td class="text-align-center"><%= idx + 1 %></td>
+                <td class="text-align-center"><%= it.roll %></td>
+                <td class="text-align-center"><%= it.dob  %></td>
+                <td class="text-align-center"><%= it.score %></td>
+                <td> 
+                    <a href="/teacher/edit/<%= it._id %>/?token=<%= token %>"><button class="btn btn-outline-warning"><i class="bi bi-pencil-square"></i>&nbsp; Edit</button></a>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="/teacher/delete/<%= it._id %>/?token=<%= token %>" ><button class="btn btn-outline-danger"><i class="bi bi-trash"></i>&nbsp; Delete</button></a>
+                    
+                </td>
+            </tr>
+        <% }) %>
+            <!-- <tr *ngFor="let it of resultList; index as i">
+                <th> {{ i + 1 }} </th>
+                <td class="text-align-center"> {{ it.rollno }} </td>
+                <td class="text-align-center"> {{ it.dob }} </td>
+                <td class="text-align-center"> {{ it.marks }} </td>
+                <td class="text-align-center">
+                    <a [routerLink]="[it.id]">
+                        <button class="btn btn-outline-warning"><i class="bi bi-pencil-square"></i>&nbsp; Edit </button>
+                    </a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    <button (click)="onDelete(it.id, i)" class="btn btn-outline-danger"><i
+                            class="bi bi-trash"></i>&nbsp; Delete </button>
+                </td>
+            </tr> -->
+        </tbody>
+    </table>
+</div>
+
+
+
+<%- include("../layout/footer.ejs") %>

@@ -1,0 +1,31 @@
+<%- include("../layout/header.ejs") %>
+
+<div class="container pt-3">
+    <div class="row">
+        <div class="col-6">
+            <h2>Your Result : </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a href="/student/search"><button class="btn btn-warning ">
+                    Back </button></a>
+        </div>
+    </div>
+    <table class="table pt-5">
+        <thead class="table-primary">
+            <tr>
+                <th>Roll NO </th>
+                <th>Date of birth </th>
+                <th>marks %</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> <%= stuResult.roll %> </td>
+                <td> <%= stuResult.dob %> </td>
+                <td> <%= stuResult.score %> </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<%- include("../layout/footer.ejs") %>

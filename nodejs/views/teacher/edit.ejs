@@ -1,0 +1,46 @@
+<%- include("../layout/header.ejs") %>
+
+<div class="container">
+    <div class="row text-center mb-4 mt-4">
+        <h2>Edit Result of : <i><b style="color:DodgerBlue;"><%= user.name %></b></i></h2>
+    </div>
+
+   <!--  <div *ngIf="alert" class="alert alert-success alert-dismissible fade show" role="alert">
+        <div class="row">
+            <div class="col-9">
+                <strong><i class="bi bi-check2-all"></i></strong> &nbsp; Result is Updated Successfully
+            </div>
+            <div class="col-3">
+                <a routerLink="../"><button class="btn btn-outline-dark float-end"> Back </button> </a>
+            </div>
+        </div>
+    </div> -->
+    <form method="post">
+        <div class="form-outline mb-4">
+            <label class="form-label" for="rollno"> Rollno </label>
+            <input type="text" id="rollno" name="roll" class="form-control" value="<%= user.roll %>" />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="dob"> Date of birth </label>
+            <input type="date" id="dob"name="dob" class="form-control" value="<%= user.dob %>" />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="marks"> Score </label>
+            <input type="text" id="marks" name="score" class="form-control" value="<%= user.score %>" />
+        </div>
+
+        <div class="form-outline mb-4">
+            <input type="hidden" id="marks" name="token" class="form-control" value="<%= token %>" required />
+        </div>
+
+        <button  type="submit" class="btn btn-outline-primary btn-block mb-4">Update</button>
+
+    </form>
+
+
+</div>
+
+
+<%- include("../layout/footer.ejs") %>

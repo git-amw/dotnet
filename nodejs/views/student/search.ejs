@@ -1,0 +1,52 @@
+<%- include("../layout/header.ejs") %>
+
+
+<nav class="navbar ">
+    <div class="container-fluid">
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <h2>
+                    <img src="/images/sImg/stu1.png" width="80px" />
+                </h2>
+            </li>
+        </ul>
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <a href="/"><button class="btn btn-warning btn-lg"><i class="bi bi-box-arrow-left"></i>&nbsp;
+                        logout </button></a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container card">
+    <div class="row text-center mb-4 mt-4">
+        <h2>Search Result</h2>
+    </div>
+    <% if (flag) { %>
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <strong><i class="bi bi-exclamation-triangle"></i></strong> &nbsp; Result Not Found
+            <button type="button" class="btn-close" data-dismiss="alert" aria-label="Close" ></button>
+        </div>
+    <% } %>
+    <form method="post" action="/student/view">
+        <div class="form-outline mb-4">
+            <label class="form-label" for="rollno">Rollno</label>
+            <input type="text" name="roll" id="rollno" class="form-control" required />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="dob">Date of birth</label>
+            <input type="date" name="dob" id="dob" class="form-control" required />
+        </div>
+
+        <button  type="submit" class="btn btn-outline-primary btn-block mb-4">Search</button>
+        &nbsp; &nbsp; &nbsp;
+        <!-- <button type="button" class="btn btn-outline-secondary btn-block mb-4">Clear</button> -->
+
+    </form>
+</div>
+
+
+
+<%- include("../layout/footer.ejs") %>

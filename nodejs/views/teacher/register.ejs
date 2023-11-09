@@ -1,0 +1,54 @@
+<%- include("../layout/header.ejs") %>
+
+<div class="container card bg-light">
+    <div class="row text-center mb-4 mt-4">
+        <h2>Teacher SignUp</h2>
+    </div>
+
+    <% if (flaga) { %> 
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <div class="row">
+                <div class="col-9">
+                    <strong><i class="bi bi-check2-all"></i></strong> &nbsp; Successfully Resigter
+                </div>
+                <div class="col-3">
+                    <a href="/teacher/login"><button class="btn btn-outline-secondary float-end">Sign In </button></a>
+                </div>
+            </div>
+        </div>
+    <% } %>
+
+    <% if (flagb) { %>
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <strong><i class="bi bi-exclamation-triangle"></i></strong> &nbsp; Password does not match
+            <button type="button" class="btn-close" data-dismiss="alert" aria-label="Close"></button>
+        </div>
+    <% } %>
+
+    <form method="post" action="/teacher/signup">
+        <div class="form-outline mb-4">
+            <label class="form-label" for="email">Email</label>
+            <input type="email" name="email" id="email" class="form-control" required />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="password">Password</label>
+            <input type="password" name="password" id="password" class="form-control" required />
+        </div>
+
+        <div class="form-outline mb-4">
+            <label class="form-label" for="cnfpassword">Confirm Password</label>
+            <input type="password" name="cnfpassword" id="cnfpassword" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-outline-primary btn-block mb-4">Sign Up</button>
+        &nbsp; &nbsp; &nbsp;
+        <!-- <button (click)="clearForm()" type="button" class="btn btn-outline-secondary btn-block mb-4"> Clear </button> -->
+
+        <div class="text-center">
+            <p>Have an acccount ? <a href="/teacher/login">Sign In </a></p>
+        </div>
+    </form>
+</div>
+
+<%- include("../layout/footer.ejs") %>
